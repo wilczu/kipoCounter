@@ -84,7 +84,7 @@ const counterModule = {
     actions: {
         async requestCurrentTimeZone({commit}) {
             try {
-                await axios.get('http://worldtimeapi.org/api/ip').then(response => {
+                await axios.get('https://worldtimeapi.org/api/ip').then(response => {
                     commit('setTimeZone', response.data.timezone);
                 })
             } catch (error) {
@@ -92,7 +92,7 @@ const counterModule = {
             }
         },
         async requestCurrentTime({commit, state}) {
-            await axios.get(`http://worldtimeapi.org/api/timezone/${state.currentTimeZone}`).then(response => {
+            await axios.get(`https://worldtimeapi.org/api/timezone/${state.currentTimeZone}`).then(response => {
                 let dataTime = response.data.datetime;
                 commit('setCurrentTime', dataTime.substr(0, dataTime.indexOf('.')));
             })
