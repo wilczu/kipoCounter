@@ -3,7 +3,7 @@
         <div class="flex justify-between navigation">
             <div class="flex gap-2 nav-item">
                 <div class="hover:underline">
-                    <a href="https://github.com">
+                    <a href="https://github.com/wilczu/kipoCounter">
                         <span class="hover:underline">Github</span>
                     </a>
                 </div>
