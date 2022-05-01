@@ -6,12 +6,12 @@ This is absolutely pointless website I'm aware of that but it was fun to make fo
 
 ## 📜 Libraries and other things I've used
 
-- Vue.js
-- Axios
-- Vuex
-- vue-toaster
-- TailwindCSS
-- Docker & docker-compose (deployment)
+- [Vue.js]
+- [Azios]
+- [Vuex]
+- [vue-toaster]
+- [TailwindCSS]
+- [Docker] & [Docker-compose] (deployment)
 - Html, CSS and JS (of course)
 
 ## 🖥️ Running dev environment process
@@ -37,3 +37,10 @@ Feel free to create pull requests. I'm sure there is a way of making this code m
 
 [Mit licence]: <https://https://choosealicense.com/licenses/mit/>
 [live version]: <https://kipo.wilchu.net>
+[TailwindCSS]: <https://https://tailwindcss.com>
+[vue-toaster]: <https://github.com/MeForma/vue-toaster>
+[Vuex]: <https://vuex.vuejs.org>
+[Azios]: <https://github.com/axios/axios>
+[Vue.js]: <https://vuejs.org>
+[Docker]: <https://www.docker.com>
+[Docker-compose]: <https://docs.docker.com/compose/>
