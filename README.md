@@ -1,6 +1,6 @@
 # 👋 Hello world
 
-I decided to create this app mainly for run and to experiment with time API (http://worldtimeapi.org/). This counter is calculating the amount of time which has passed since release of season 1 to season 3 of Kipo and age of Wonderbeasts series.
+I decided to create this app mainly for fun and to experiment with time API (http://worldtimeapi.org/). This counter is calculating the amount of time which has passed since release of season 1,2 or 3 of Kipo and the age of Wonderbeasts series.
 
 This is absolutely pointless website I'm aware of that but it was fun to make for sure :)
 
