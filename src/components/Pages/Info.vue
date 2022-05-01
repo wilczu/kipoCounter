@@ -25,7 +25,7 @@
           <li><a href="https://vuex.vuejs.org" class="hover:underline text-pink-500">Vuex</a></li>
           <li><a href="https://github.com/MeForma/vue-toaster" class="hover:underline text-pink-500">vue-toaster</a></li>
           <li><a href="https://https://tailwindcss.com" class="hover:underline text-pink-500">TailwindCSS</a></li>
-          <li><a href="https://www.docker.com text-pink-500" class="hover:underline">Docker</a> & <a href="https://docs.docker.com/compose/" class="hover:underline text-pink-500">docker-compose</a> (deployment)</li>
+          <li><a href="https://www.docker.com text-pink-500" class="hover:underline text-pink-500">Docker</a> & <a href="https://docs.docker.com/compose/" class="hover:underline text-pink-500">docker-compose</a> (deployment)</li>
           <li>Html, CSS and JS (of course)</li>
         </ul>
       </article>
