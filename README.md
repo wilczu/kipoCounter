@@ -7,7 +7,7 @@ This is absolutely pointless website I'm aware of that but it was fun to make fo
 ## 📜 Libraries and other things I've used
 
 - [Vue.js]
-- [Azios]
+- [Axios]
 - [Vuex]
 - [vue-toaster]
 - [TailwindCSS]
@@ -40,7 +40,7 @@ Feel free to create pull requests. I'm sure there is a way of making this code m
 [TailwindCSS]: <https://https://tailwindcss.com>
 [vue-toaster]: <https://github.com/MeForma/vue-toaster>
 [Vuex]: <https://vuex.vuejs.org>
-[Azios]: <https://github.com/axios/axios>
+[Axios]: <https://github.com/axios/axios>
 [Vue.js]: <https://vuejs.org>
 [Docker]: <https://www.docker.com>
 [Docker-compose]: <https://docs.docker.com/compose/>
