@@ -7,7 +7,7 @@ const linksModule = {
                     category: 'Useful pages',
                     content: [
                         {
-                            title: 'Awesome reddit comunity',
+                            title: 'Awesome reddit community',
                             url: 'https://www.reddit.com/r/KipoAndTheAgeOfWB/'
                         },
                         {
