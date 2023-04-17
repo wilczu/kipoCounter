@@ -36,7 +36,7 @@ Feel free to create pull requests. I'm sure there is a way of making this code m
 [Mit licence]
 
 [Mit licence]: <https://https://choosealicense.com/licenses/mit/>
-[live version]: <https://kipo.wilchu.net>
+[live version]: <https://kipo.wilchu.dev>
 [TailwindCSS]: <https://https://tailwindcss.com>
 [vue-toaster]: <https://github.com/MeForma/vue-toaster>
 [Vuex]: <https://vuex.vuejs.org>
